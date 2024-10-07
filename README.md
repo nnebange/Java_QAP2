@@ -1,1 +1,3 @@
-# Java_QAP2
+Author: Clovis Neba
+QAP2_Java 
+
